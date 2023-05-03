@@ -532,6 +532,7 @@
               <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#basicModal">
                 Basic Modal
               </button>
+
               <div class="modal fade" id="basicModal" tabindex="-1">
                 <div class="modal-dialog">
                   <div class="modal-content">
@@ -548,7 +549,8 @@
                     </div>
                   </div>
                 </div>
-              </div><!-- End Basic Modal-->
+              </div>
+              <!-- End Basic Modal-->
 
             </div>
           </div>

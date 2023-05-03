@@ -2,18 +2,17 @@
 <html lang="en">
 
 <head>
-      <?php 
+    <?php 
         //variable settings
-        $page_title = "Dashboard";
-        $active_sidebar = "";
-        $active_sidebar_item = "dashboard-item";
+        $page_title = "Blank";
+        $active_sidebar = "blank-nav";
+        $active_sidebar_item = "blank-item";
        ?>
       <!--// include header resouces -->
       <?php include '../includes/header_resources.php';?>
 </head>
 
 <body>
-
   <!--// include header -->
   <?php include '../includes/header.php';?>
 
@@ -23,9 +22,6 @@
   <main id="main" class="main">
     <!--// include breadcrumb -->
     <?php include '../includes/breadcrumb.php';?>
-
-    <!--// include dashboard -->
-    <?php include '../includes/dashboard.php';?>
   </main>
   <!-- End #main -->
 
@@ -37,7 +33,6 @@
 
    <!--// include footer resources -->
    <?php include '../includes/footer_resources.php';?>
-
 </body>
 
 </html>
