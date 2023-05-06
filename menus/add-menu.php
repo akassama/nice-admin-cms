@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-    <?php 
+      <?php 
         //variable settings
-        $page_title = "Blank";
-        $active_sidebar = "blank-nav";
-        $active_sidebar_item = "blank-item";
+        $page_title = "Add Menu";
+        $active_sidebar = "menus-nav";
+        $active_sidebar_item = "footer-menu-item";
        ?>
       <!--// include header resouces -->
       <?php include '../includes/header_resources.php';?>
@@ -23,14 +23,14 @@
     <!--// include breadcrumb -->
     <?php include '../includes/breadcrumb.php';?>
 
-    <!--// include table -->
-    <?php include '../includes/tables/blank-table.php';?>
+    <!--// include form -->
+    <?php include '../includes/forms/add-menu-form.php';?>
   </main>
   <!-- End #main -->
 
     <!--// include footer -->
     <?php include '../includes/footer.php';?>
-
+    
     <!--// include modals -->
     <?php include '../includes/modals.php';?>
 

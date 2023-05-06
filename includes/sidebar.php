@@ -235,7 +235,13 @@
       </li>
       <!-- End Log Viewer Nav -->
     
-
+      <li class="nav-item">
+        <a class="nav-link collapsed" href="../blank/index.php" id="blank-item">
+          <i class="bi bi-file"></i>
+          <span>Blank</span>
+        </a>
+      </li>
+      <!-- End Log Viewer Nav -->
     </ul>
 
   </aside>

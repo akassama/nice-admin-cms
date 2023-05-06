@@ -23,8 +23,8 @@
     <!--// include breadcrumb -->
     <?php include '../includes/breadcrumb.php';?>
 
-    <!--// include table -->
-    <?php include '../includes/tables/blank-table.php';?>
+    <!--// include view -->
+    <?php include '../includes/views/policy-view.php';?>
   </main>
   <!-- End #main -->
 

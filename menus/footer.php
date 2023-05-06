@@ -23,8 +23,8 @@
     <!--// include breadcrumb -->
     <?php include '../includes/breadcrumb.php';?>
 
-      <!--// include breadcrumb -->
-      <?php include '../includes/tables/nav-menus.php';?>
+    <!--// include form -->
+    <?php include '../includes/tables/menus-table.php';?>
   </main>
   <!-- End #main -->
 
