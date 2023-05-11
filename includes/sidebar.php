@@ -98,11 +98,6 @@
               <i class="bi bi-circle"></i><span>PDFs</span>
             </a>
           </li>
-          <li>
-            <a href="../media/gallery.php" id="gallery-item">
-              <i class="bi bi-circle"></i><span>Gallery</span>
-            </a>
-          </li>
         </ul>
       </li>
       <!-- End Media Nav -->
@@ -184,8 +179,8 @@
             </a>
           </li>
           <li>
-            <a href="../settings/twitter-feed.php" id="twitter-feed-item">
-              <i class="bi bi-circle"></i><span>Twitter Feed</span>
+            <a href="../settings/twitter-settings.php" id="twitter-settings-item">
+              <i class="bi bi-circle"></i><span>Twitter Settings</span>
             </a>
           </li>
         </ul>
@@ -212,7 +207,7 @@
       <!-- End Access Control Nav -->
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="../proile/index.php" id="profile-item">
+        <a class="nav-link collapsed" href="../profile/index.php" id="profile-item">
           <i class="bi bi-person-lines-fill"></i>
           <span>My Proile</span>
         </a>

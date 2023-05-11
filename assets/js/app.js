@@ -54,6 +54,29 @@ $('.delete-button').on('click', function (e) {
 
 
 ///////////////////////////
+//////Set Lais img upload gallery//////
+///////////////////////////
+$(document).ready(function () {
+    $("#upload-images").laiImagePreview({
+        columns: "col-sm-6 col-md-3",
+        inputFileName: "image-gallery",
+        imageCaption: false,
+        imageLimit : 8
+    });
+});
+
+
+///////////////////////////
+//////filter input file types//////
+///////////////////////////
+$(document).ready(function() {
+    //set input accept types
+    $('.image-input').attr("accept", "image/*");
+    $('.video-input').attr("accept", "video/*");
+    $('.pdf-input').attr("accept", ".pdf");
+});
+
+///////////////////////////
 //////Checks if empty//////
 ///////////////////////////
 function isEmpty(str) {

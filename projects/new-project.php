@@ -4,9 +4,9 @@
 <head>
     <?php 
         //variable settings
-        $page_title = "Blank";
-        $active_sidebar = "blank-nav";
-        $active_sidebar_item = "blank-item";
+        $page_title = "New Project";
+        $active_sidebar = "";
+        $active_sidebar_item = "projects-item";
        ?>
       <!--// include header resouces -->
       <?php include '../includes/header_resources.php';?>
@@ -24,7 +24,7 @@
     <?php include '../includes/breadcrumb.php';?>
 
     <!--// include form -->
-    <?php include '../includes/forms/blank-form.php';?>
+    <?php include '../includes/forms/add-project-form.php';?>
   </main>
   <!-- End #main -->
 

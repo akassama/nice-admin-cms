@@ -1,9 +1,9 @@
 <section class="section">
       <div class="row">
         <div class="col-12">
-          <a href="../blank/blank-form.php" class="float-end mb-2">
+          <a href="../projects/new-project.php" class="float-end mb-2">
             <button type="button" class="btn btn-outline-primary">
-              <i class="bi bi-plus"></i>Add Form
+              <i class="bi bi-plus"></i>New Project
             </button>
           </a>
         </div>
@@ -38,6 +38,7 @@
                     <td>2016-05-25</td>
                     <td>
                         <a href="#!" class="btn btn-success mb-1"><i class="bi bi-pencil-square"></i></a>
+                        <a href="../projects/project-details.php" class="btn btn-primary mb-1"><i class="bi bi-eye"></i></a>
                         <button type="button" class="btn btn-danger delete-button mb-1"  data-id="f2a104cad924" data-group="ModelGroup" data-name="ModelItem" data-model="Model" data-c-models="ChildModel01,ChildModel02" data-return-ct="admin" data-return-ac="manage-models" data-return-id="c9ba8eda">
                             <i class="bi bi-trash mb-1"></i>
                         </button>
@@ -57,6 +58,7 @@
                     <td>2014-12-05</td>
                     <td>
                       <a href="#!" class="btn btn-success mb-1"><i class="bi bi-pencil-square"></i></a>
+                      <a href="../projects/project-details.php" class="btn btn-primary mb-1"><i class="bi bi-eye"></i></a>
                         <button type="button" class="btn btn-danger delete-button mb-1"  data-id="f2a104cad924" data-group="ModelGroup" data-name="ModelItem" data-model="Model" data-c-models="ChildModel01,ChildModel02" data-return-ct="admin" data-return-ac="manage-models" data-return-id="c9ba8eda">
                             <i class="bi bi-trash"></i>
                         </button>

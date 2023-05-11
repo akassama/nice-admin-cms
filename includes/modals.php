@@ -29,4 +29,28 @@
     </form>
   </div>
 </div>
-<!-- End daleteAction Modal-->
+<!-- End dalete Modal-->
+
+<!-- Begin Signout Modal-->
+<div class="modal fade" id="signoutModal" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">
+        <i class="bi bi-box-arrow-in-right"></i> Confirm Sign-Out 
+        </h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p class="text-lead">   
+          Are you sure you want to Logout?
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Cancel</button>
+        <button type="button" class="btn btn-danger">Confirm</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Signout Modal-->

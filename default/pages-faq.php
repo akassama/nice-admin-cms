@@ -701,7 +701,8 @@
               </div>
 
             </div>
-          </div><!-- End F.A.Q Group 2 -->
+          </div>
+          <!-- End F.A.Q Group 2 -->
 
           <!-- F.A.Q Group 3 -->
           <div class="card">

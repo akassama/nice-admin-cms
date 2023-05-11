@@ -24,7 +24,7 @@
     <?php include '../includes/breadcrumb.php';?>
 
     <!--// include table -->
-    <?php include '../includes/tables/blank-table.php';?>
+    <?php include '../includes/tables/projects-table.php';?>
   </main>
   <!-- End #main -->
 

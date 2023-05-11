@@ -4,9 +4,9 @@
 <head>
     <?php 
         //variable settings
-        $page_title = "Blank";
-        $active_sidebar = "blank-nav";
-        $active_sidebar_item = "blank-item";
+        $page_title = "Images";
+        $active_sidebar = "media-nav";
+        $active_sidebar_item = "images-item";
        ?>
       <!--// include header resouces -->
       <?php include '../includes/header_resources.php';?>
@@ -23,8 +23,8 @@
     <!--// include breadcrumb -->
     <?php include '../includes/breadcrumb.php';?>
 
-    <!--// include form -->
-    <?php include '../includes/forms/blank-form.php';?>
+    <!--// include table -->
+    <?php include '../includes/tables/images-table.php';?>
   </main>
   <!-- End #main -->
 

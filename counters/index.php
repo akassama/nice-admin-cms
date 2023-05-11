@@ -4,7 +4,7 @@
 <head>
     <?php 
         //variable settings
-        $page_title = "Blank";
+        $page_title = "Counters";
         $active_sidebar = "blank-nav";
         $active_sidebar_item = "blank-item";
        ?>
@@ -24,7 +24,7 @@
     <?php include '../includes/breadcrumb.php';?>
 
     <!--// include table -->
-    <?php include '../includes/tables/blank-table.php';?>
+    <?php include '../includes/tables/counters-table.php';?>
   </main>
   <!-- End #main -->
 

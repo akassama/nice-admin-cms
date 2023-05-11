@@ -15,8 +15,11 @@
   <!-- clipboard js -->
   <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script>
 
+  <!-- lais img upload js -->
+  <script src="../assets/vendor/lais-img-upload/js/script.js"></script>
+
   <!-- Template Main JS File -->
   <script src="../assets/js/main.js"></script>
 
-    <!-- Template Main JS File -->
-    <script src="../assets/js/app.js"></script>
+<!-- Template Main JS File -->
+<script src="../assets/js/app.js"></script>

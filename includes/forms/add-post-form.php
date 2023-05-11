@@ -55,7 +55,7 @@
                 </div>
                 </div>
             </div>
-            <div class="col-12">
+            <div class="col-12 mt-5">
                 <button class="btn btn-success mb-1" type="submit">
                     <i class="bx bxs-save"></i> Save
                 </button>

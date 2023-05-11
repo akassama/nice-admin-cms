@@ -26,9 +26,12 @@
 <!-- Template Main CSS File -->
 <link href="../assets/css/style.css" rel="stylesheet">
 
+<!-- Custom CSS File -->
+<link href="../assets/css/custom.css" rel="stylesheet">
+
 <!-- TODO REMOVE - AUTO REFRESH -->
 <?php
     $page = $_SERVER['PHP_SELF'];
     $sec = "5";
-    header("Refresh: $sec; url=$page");
+    //header("Refresh: $sec; url=$page");
 ?>

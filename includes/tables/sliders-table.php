@@ -1,9 +1,9 @@
 <section class="section">
       <div class="row">
         <div class="col-12">
-          <a href="../blank/blank-form.php" class="float-end mb-2">
+          <a href="../sliders/add-slider.php" class="float-end mb-2">
             <button type="button" class="btn btn-outline-primary">
-              <i class="bi bi-plus"></i>Add Form
+              <i class="bi bi-plus"></i> New Slider
             </button>
           </a>
         </div>

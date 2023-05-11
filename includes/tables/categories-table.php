@@ -1,5 +1,12 @@
 <section class="section">
       <div class="row">
+        <div class="col-12">
+          <a href="../categories/add-category.php" class="float-end mb-2">
+            <button type="button" class="btn btn-outline-primary">
+              <i class="bi bi-plus"></i>New Category
+            </button>
+          </a>
+        </div>
         <div class="col-lg-12">
           <div class="card">
             <div class="card-body">

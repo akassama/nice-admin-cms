@@ -4,9 +4,9 @@
 <head>
     <?php 
         //variable settings
-        $page_title = "Blank";
-        $active_sidebar = "blank-nav";
-        $active_sidebar_item = "blank-item";
+        $page_title = "Events";
+        $active_sidebar = "";
+        $active_sidebar_item = "events-item";
        ?>
       <!--// include header resouces -->
       <?php include '../includes/header_resources.php';?>
@@ -24,7 +24,7 @@
     <?php include '../includes/breadcrumb.php';?>
 
     <!--// include table -->
-    <?php include '../includes/tables/blank-table.php';?>
+    <?php include '../includes/tables/events-table.php';?>
   </main>
   <!-- End #main -->
 
