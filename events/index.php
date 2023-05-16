@@ -8,7 +8,7 @@
         $active_sidebar = "";
         $active_sidebar_item = "events-item";
        ?>
-      <!--// include header resouces -->
+      <!--// include header resources -->
       <?php include '../includes/header_resources.php';?>
 </head>
 

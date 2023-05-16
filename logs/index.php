@@ -8,7 +8,7 @@
         $active_sidebar = "blank-nav";
         $active_sidebar_item = "blank-item";
        ?>
-      <!--// include header resouces -->
+      <!--// include header resources -->
       <?php include '../includes/header_resources.php';?>
 </head>
 

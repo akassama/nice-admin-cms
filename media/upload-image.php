@@ -8,7 +8,7 @@
         $active_sidebar = "media-nav";
         $active_sidebar_item = "images-item";
        ?>
-      <!--// include header resouces -->
+      <!--// include header resources -->
       <?php include '../includes/header_resources.php';?>
 </head>
 

@@ -4,11 +4,11 @@
 <head>
     <?php 
         //variable settings
-        $page_title = "Blank";
-        $active_sidebar = "blank-nav";
-        $active_sidebar_item = "blank-item";
+        $page_title = "Add Translation";
+        $active_sidebar = "";
+        $active_sidebar_item = "translations-item";
        ?>
-      <!--// include header resouces -->
+      <!--// include header resources -->
       <?php include '../includes/header_resources.php';?>
 </head>
 
@@ -24,7 +24,7 @@
     <?php include '../includes/breadcrumb.php';?>
 
     <!--// include form -->
-    <?php include '../includes/forms/blank-form.php';?>
+    <?php include '../includes/forms/add-translations-form.php';?>
   </main>
   <!-- End #main -->
 

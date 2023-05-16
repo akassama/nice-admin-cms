@@ -23,6 +23,9 @@
 <link href="../assets/vendor/remixicon/remixicon.css" rel="stylesheet">
 <link href="../assets/vendor/simple-datatables/style.css" rel="stylesheet">
 
+<!-- Flags Icon -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"/>
+
 <!-- Template Main CSS File -->
 <link href="../assets/css/style.css" rel="stylesheet">
 

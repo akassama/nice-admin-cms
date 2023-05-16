@@ -4,11 +4,11 @@
 <head>
     <?php 
         //variable settings
-        $page_title = "Blank";
-        $active_sidebar = "blank-nav";
-        $active_sidebar_item = "blank-item";
+        $page_title = "Cookie Policy";
+        $active_sidebar = "policies-nav";
+        $active_sidebar_item = "cookie-item";
        ?>
-      <!--// include header resouces -->
+      <!--// include header resources -->
       <?php include '../includes/header_resources.php';?>
 </head>
 
@@ -23,8 +23,8 @@
     <!--// include breadcrumb -->
     <?php include '../includes/breadcrumb.php';?>
 
-    <!--// include view -->
-    <?php include '../includes/views/policy-view.php';?>
+    <!--// include form -->
+    <?php include '../includes/forms/policy-form.php';?>
   </main>
   <!-- End #main -->
 

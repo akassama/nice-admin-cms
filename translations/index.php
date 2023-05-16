@@ -4,11 +4,11 @@
 <head>
     <?php 
         //variable settings
-        $page_title = "Blank";
-        $active_sidebar = "blank-nav";
-        $active_sidebar_item = "blank-item";
+        $page_title = "Translations";
+        $active_sidebar = "";
+        $active_sidebar_item = "translations-item";
        ?>
-      <!--// include header resouces -->
+      <!--// include header resources -->
       <?php include '../includes/header_resources.php';?>
 </head>
 
@@ -24,7 +24,7 @@
     <?php include '../includes/breadcrumb.php';?>
 
     <!--// include table -->
-    <?php include '../includes/tables/blank-table.php';?>
+    <?php include '../includes/tables/translations-table.php';?>
   </main>
   <!-- End #main -->
 

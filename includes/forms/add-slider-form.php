@@ -62,8 +62,8 @@
                     <i class="bx bxs-left-arrow-alt"></i> Back
                 </a>
             </div>
-            </form><!-- End Form -->
-
+            </form>
+            <!-- End Form -->
         </div>
     </div>
 </section>

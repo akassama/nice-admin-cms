@@ -8,7 +8,7 @@
         $active_sidebar = "menus-nav";
         $active_sidebar_item = "top-menu-item";
        ?>
-      <!--// include header resouces -->
+      <!--// include header resources -->
       <?php include '../includes/header_resources.php';?>
 </head>
 

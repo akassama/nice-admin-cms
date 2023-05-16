@@ -1,23 +1,23 @@
 <section class="section">
       <div class="row">
         <div class="col-12">
-          <a href="../blank/blank-form.php" class="float-end mb-2">
+          <a href="../translations/new-translation.php" class="float-end mb-2">
             <button type="button" class="btn btn-outline-primary">
-              <i class="bi bi-plus"></i>Add Form
+              <i class="bi bi-plus"></i>New Translation
             </button>
           </a>
         </div>
         <div class="col-lg-12">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">Datatables</h5>
+              <h5 class="card-title">Translations</h5>
               <!-- Table with stripped rows -->
               <table class="table table-bordered table-striped border border-dark datatable">
                 <thead>
                   <tr>
                     <th scope="col">#</th>
-                    <th scope="col">Name</th>
-                    <th scope="col">Description</th>
+                    <th scope="col">Language</th>
+                    <th scope="col">Symbol</th>
                     <th scope="col">Status</th>
                     <th scope="col">Created At</th>
                     <th scope="col">Action</th>
@@ -26,9 +26,11 @@
                 <tbody>
                   <tr>
                     <th scope="row">1</th>
-                    <td>About</td>
                     <td>
-                        <span>--</span>
+                        English (en)
+                    </td>
+                    <td>
+                        <i class="fi fi-gb"></i> English
                     </td>
                     <td>
                         <span class="text-success fw-bold">
@@ -45,9 +47,9 @@
                   </tr>
                   <tr>
                     <th scope="row">2</th>
-                    <td>Home</td>
+                    <td>Arabic (ar)</td>
                     <td>
-                        <span>--</span>
+                        <i class="fi fi-sa"></i> <span class="fs-4">عربي</span>
                     </td>
                     <td>
                         <span class="text-success fw-bold">

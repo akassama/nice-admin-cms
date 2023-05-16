@@ -4,11 +4,11 @@
 <head>
     <?php 
         //variable settings
-        $page_title = "Blank";
-        $active_sidebar = "blank-nav";
-        $active_sidebar_item = "blank-item";
+        $page_title = "Facebook Settings";
+        $active_sidebar = "settings-nav";
+        $active_sidebar_item = "facebook-settings-item";
        ?>
-      <!--// include header resouces -->
+      <!--// include header resources -->
       <?php include '../includes/header_resources.php';?>
 </head>
 
