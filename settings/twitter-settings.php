@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <?php 
+    <?php
         //variable settings
         $page_title = "Twitter Settings";
         $active_sidebar = "settings-nav";
@@ -24,7 +24,7 @@
     <?php include '../includes/breadcrumb.php';?>
 
     <!--// include form -->
-    <?php include '../includes/forms/seo-settings-form.php';?>
+    <?php include '../includes/forms/twitter-settings-form.php';?>
   </main>
   <!-- End #main -->
 

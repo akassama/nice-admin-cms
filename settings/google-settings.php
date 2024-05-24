@@ -24,7 +24,7 @@
     <?php include '../includes/breadcrumb.php';?>
 
     <!--// include form -->
-    <?php include '../includes/forms/seo-settings-form.php';?>
+    <?php include '../includes/forms/google-settings-form.php';?>
   </main>
   <!-- End #main -->
 
